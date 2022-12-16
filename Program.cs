@@ -7,10 +7,29 @@
 // a = -9 b = -3 -> max = -3
 
 //говорим введи числа - запрашиваем у пользователя
-Console.WriteLine("Input first number");
-int a = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Input second number");
-int b = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine("Input first number");
+// int a = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input second number");
+// int b = Convert.ToInt32(Console.ReadLine());
+
+// if(a > b)
+// {
+//     Console.WriteLine($"{a} is bigger then {b}");
+// }
+// if(a == b)
+// {
+//     Console.WriteLine($"{a} = {b}");
+// }
+// //если условие не выполняется пишем "иначе выполняй":
+// else
+// {
+//     Console.WriteLine($"{b} is bigger then {a}");
+// }
+
+
+
+
 
 
 // ********************************Задание 2:******************************************
